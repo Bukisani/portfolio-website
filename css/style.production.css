@@ -131,6 +131,7 @@ button {
   -ms-flex-direction: column;
   flex-direction: column;
   text-align: center;
+  border-top: 1px solid #ffffff;
 }
 .profile {
   max-width: 700px;
@@ -147,6 +148,7 @@ button {
 .project-list__item {
   background-color: #d3d3d3;
   border-radius: 10px;
+  box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
 }
 .project-list__item:last-child {
   -ms-grid-column: 4;
