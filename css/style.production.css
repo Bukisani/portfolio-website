@@ -10,7 +10,8 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.6;
-  background-color: #f0f0f0;
+  color: #343434;
+  background-color: #f5ebd3;
 }
 * {
   -webkit-box-sizing: border-box;
@@ -145,6 +146,7 @@ button {
 }
 .project-list__item {
   background-color: #d3d3d3;
+  border-radius: 10px;
 }
 .project-list__item:last-child {
   -ms-grid-column: 4;
